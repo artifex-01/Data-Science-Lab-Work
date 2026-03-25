@@ -1,31 +1,32 @@
 # Lab 3: NumPy
 
 ## Description
-This lab introduces NumPy, a powerful Python library used for numerical computations and working with arrays.
+This lab focuses on understanding the basics of NumPy, a powerful Python library used for numerical computations. It introduces array creation, manipulation, and mathematical operations.
 
 ## Topics Covered
 - Introduction to NumPy
-- Creating arrays
-- Array operations
-- Indexing and slicing
+- Creating NumPy arrays
+- Array indexing and slicing
+- Array reshaping
 - Mathematical operations on arrays
-- Reshaping arrays
+- Statistical operations (mean, sum, etc.)
 
 ## Tasks Performed
-- Created NumPy arrays using different methods
-- Performed mathematical operations on arrays
-- Practiced indexing and slicing
-- Explored array manipulation techniques
+- Created 1D and 2D NumPy arrays
+- Performed indexing and slicing operations
+- Applied mathematical operations on arrays
+- Used NumPy functions for calculations
+- Reshaped arrays and explored their properties
 
 ## Files Included
-- Lab_Classification_Sp2026 Arshad Khan (1).ipynb
+- Atharva_Lab3_numpy_basics.ipynb
 
 ## Tools Used
 - Python
 - NumPy
 
 ## Conclusion
-This lab provided a strong foundation in numerical computing using NumPy, which is essential for data science and machine learning.
+This lab provided a strong foundation in numerical computing using NumPy. It demonstrated how arrays can be efficiently manipulated and used for mathematical operations in data science.
 
 ## Author
 Arshad Khan
