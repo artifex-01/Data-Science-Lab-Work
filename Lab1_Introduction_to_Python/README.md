@@ -40,4 +40,4 @@ This lab introduces the basic concepts of Python programming. It focuses on unde
 This lab helped in building a strong foundation in Python programming by understanding basic concepts and performing simple operations.
 
 ## Author
-Arsh
+Arshad Khan
